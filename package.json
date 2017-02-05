@@ -8,6 +8,10 @@
   },
   "author": "Darya Shemyakina",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DaryaDarya/TradeinTest.git"
+  },
   "devDependencies": {
     "mocha": "^3.2.0"
   },
