@@ -1,0 +1,17 @@
+{
+  "name": "parse-array",
+  "version": "1.0.0",
+  "description": "module converts the array of numbers to a string",
+  "main": "parse-array.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Darya Shemyakina",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.7"
+  }
+}
